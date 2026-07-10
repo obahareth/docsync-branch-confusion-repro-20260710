@@ -1,2 +1,5 @@
-# docsync-branch-confusion-repro-20260710
-Disposable researcher-owned GitHub Actions reproduction for DocSync branch-ref behavior
+# DocSync Branch Confusion Reproduction
+
+Disposable researcher-owned GitHub Actions reproduction for branch-ref checkout behavior.
+
+This repository does not call or modify Deriv resources.
